@@ -114,8 +114,7 @@ img{
     transition: .5s;
 }
 .btn:hover{
-    background-color: #0090aa;
-    scale: 1;
+    scale: 1.5;
 }
 /*フッター-----------*/
 .page-footer{
